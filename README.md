@@ -40,8 +40,11 @@ Implementación de DAO (Data Access Object) para estructurar el acceso a la base
 
 # 📌 Tecnologías utilizadas
 ✅ Java EE (JSP, Servlets)
+
 ✅ MySQL + JDBC/JPA (Hibernate)
+
 ✅ HTML, CSS, Bootstrap (para una interfaz responsiva)
+
 ✅ MVC y DAO (para organización del código)
 
 Este proyecto demuestra mi capacidad para desarrollar aplicaciones web en Java, integrando bases de datos y una interfaz interactiva con una arquitectura bien estructurada.
